@@ -7,7 +7,9 @@ public class InfosPoints : ScriptableObject
 {
     public int nbPoints;
 
-    public int total;
+ 
+
+    public bool chaudron;
 
 
     public void ResetPoints(){

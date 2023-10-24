@@ -29,7 +29,7 @@ private TMP_Text _textPoints;
     // Update is called once per frame
     void Update()
     {
-        
+        AffichagePoints();
     }
 
 
